@@ -1,0 +1,222 @@
+* {
+     padding: 0;
+     margin: 0;
+}
+
+
+body{
+width: 100%;
+height: 100%;
+margin: auto;
+
+padding: 40px 0;
+color:#fff;
+font-size:20px;
+background: #140018;
+padding-block-end: 140px;
+
+}
+
+.menu-principal{
+width: 100%;
+background-color: #ffffff;
+height: 80px;
+padding-top:-30px;
+border-bottom: 2px solid #2e2e2e;
+
+}
+.img{
+width: 40%;
+height: 30%;
+
+}
+main {
+margin: 0 auto;
+width: 980;
+position: relative;
+
+}
+.logo{
+float: left;
+padding: 10px;
+width: 90%;
+}
+
+.redes-sociais ul li{
+margin-left: 5;
+float: left; 
+display: inline-block;
+list-style: none
+}
+.header-2{
+margin: 0 px;
+background-color: #290722;
+width: 150%;
+border-bottom: 16px solid #000000;
+
+}
+.menu ul{
+padding: 10px; /*preenchimento*/
+margin: 0 px;
+float: left; /*flutuador*/
+width: 100%; /*largura*/
+background-color: #000000;
+list-style: none;
+font: 100% Tahoma;
+border-bottom: 2px solid #2e2e2e;
+
+}
+.menu ul li{display: inline;}
+.menu ul li{
+display: inline-block;
+color: rgb(0, 0, 0);
+margin-left: 200px;
+border-bottom: 3px solid #591972;
+
+     }
+    .menu ul li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 22px;
+    padding: 3px 80px;
+    float: left;
+    text-transform: uppercase;
+    
+    }
+    .menu ul li a:hover{
+    background-color:#b167ab;
+    color: rgb(255, 255, 255);
+    border-bottom: 3px solid #ffffff;
+
+    }
+    .text-nobre li{
+    color:#ffffff;
+    font-size: 26px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0) ;
+    letter-spacing: 0px;
+    list-style: none;
+    font-weight: 70px;
+     font-style: normal
+
+
+     
+    
+ 
+    }
+    .nobre ul li{
+     list-style: none;
+     position: absolute;
+     padding: 4px;
+     
+     
+     
+     
+     
+    }
+    .nobre li{
+    list-style: none;;
+    letter-spacing: 0px;
+    
+
+    }
+    .iframe{
+    list-style: none;
+    padding: 0px;
+    width: 90px;   
+    letter-spacing: 0px;
+    border:4px solid rgb(255, 255, 255);
+    
+
+    
+    }
+
+    .brocasito-text{
+     color:#e9e9e9;
+    font-size: 26px;
+    font-family: minhafonte;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0) ;
+    position: absolute;
+    
+    left: 378px;
+     top: 183px;
+    list-style: none;
+    text-transform: uppercase;
+    font-style: normal
+    
+    }
+    .img-broca li{
+     left: 310px;
+     top: 213px; 
+     position: absolute;
+     list-style: none;
+    }
+     .video-broca li{
+       
+          left: 310px;
+          top: 519px; 
+          position: absolute;
+          list-style: none;
+     }
+     .bcraff-text{
+          color:#e9e9e9;
+          font-size: 26px;
+          text-shadow: 3px 3px 3px rgb(0, 0, 0) ;
+          position: absolute;
+          left: 1540px;
+           top: 183px;
+          list-style: none;
+          text-transform: uppercase;
+          font-style: normal
+     }
+     .raff li{
+          left: 1440px;
+          top: 213px; 
+          position: absolute;
+          list-style: none;
+     }
+     .video-raff li{
+         
+          left: 1440px;
+          top: 519px; 
+          position: absolute;
+          list-style: none;
+     }
+     .text-rush li{
+          color:#e9e9e9;
+          font-size: 26px;
+          text-shadow: 3px 3px 3px rgb(0, 0, 0) ;
+          position: absolute;
+          left: 1870px;
+           top: 185px;
+          list-style: none;
+          text-transform: uppercase;
+          font-style: normal
+     }
+     .img-rush li{
+          left: 1749px;
+          top: 213px; 
+          position: absolute;
+          list-style: none;
+     }
+     .video-rush{
+          left: 1749px;
+          top: 520px; 
+          position: absolute;
+          list-style: none;
+     }
+     .grafitex li{
+          left: 600px;
+          top: 213px; 
+          position: absolute;
+          list-style: none;
+     }
+     
+    
+       
+
+    
+        
+       
+    
+    
+  
